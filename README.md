@@ -1,4 +1,7 @@
-# ♞ Chess.com Helper - PawnStar
+Disclaimer: This project is for educational purposes. Please respect Chess.com's terms of service and use responsibly.
+            Using bots/ automation on chess.com is against their tos do not use these on real matches.
+
+# ♞ Chess.com Helper - igKnight
 
 A modern GUI tool to analyze your Chess.com games using the powerful Stockfish engine. Get real-time move suggestions and position analysis while playing against the computer on Chess.com.
 
@@ -143,6 +146,8 @@ Feel free to submit issues, fork the repository, and create pull requests for an
 ## 📄 License
 
 This project is for educational purposes. Please respect Chess.com's terms of service and use responsibly.
+
+
 
 ## 🙏 Acknowledgments
 
